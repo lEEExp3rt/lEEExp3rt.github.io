@@ -4,7 +4,7 @@ title                    : "!EEExp3rt's Home Page"
 title_separator          : "-"
 name                     : &name "!EEExp3rt"
 description              : &description "I'm handsome"
-url                      : https://leeexp3rt.github.io/ # The base hostname & protocol for your site.
+url                      : https://leeexp3rt.github.io # The base hostname & protocol for your site.
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lEEExp3rt/lEEExp3rt.github.io"
 
@@ -15,7 +15,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "!EEExp3rt"
-  pronouns         : "he/his"  
+  pronouns         :
   bio              : "A junior student in Zhejiang University, majoring in computer science."
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
