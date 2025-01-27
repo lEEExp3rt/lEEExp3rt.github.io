@@ -13,6 +13,6 @@ Hello, I'm !EEExp3rt 😄
 
 ## Basic Information
 
-浙江大学计算机科学与技术专业，2026届毕业（预计）
+浙江大学计算机科学与技术专业，2026年毕业（预计）
 
 Majoring in Computer Science and Technology, Zhejiang University, I'm expected to graduate in 2026.
