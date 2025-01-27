@@ -65,6 +65,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  notion           : https://1eeexp3rt.notion.site/W3-c0m3-281b74b71cfb448a81d9c8af9d1d47f3?pvs=74
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -130,14 +131,10 @@ facebook:
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-# social:
-#  type                   : # Person or Organization (defaults to Person)
-#  name                   : # If the user or organization name differs from the site's name
-#  links: # An array of links to social media profiles
 social:
-  - icon: notion  # 如果使用 Font Awesome
-    icon_pack: fab
-    link: https://1eeexp3rt.notion.site/W3-c0m3-281b74b71cfb448a81d9c8af9d1d47f3?pvs=74
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
 
 
 # Analytics
